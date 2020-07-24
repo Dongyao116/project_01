@@ -4,4 +4,5 @@ index.css
 # 忽略demo文件夹
 demo/
 
+# 忽略index.html
 index.html
